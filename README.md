@@ -8,3 +8,7 @@ Conan Exiles mods manager tool UE5 version
 匯出匯入排序 
 beta V9.35 新增 local存檔備份/回存
 ***目前還在開發補完功能中
+V9.41...
+*介面顏色配置  黑色模式
+*新增存檔匯入匯出功能
+*排序誤判刪除功能
